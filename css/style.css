@@ -57,3 +57,45 @@
     justify-content: center;
     align-items: center;
 }
+.mid1{
+    background-color: #00b39b;
+    border: 1px solid;
+    width: 250px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 50px;
+}
+#mid1a{
+    color: whitesmoke;
+    font-family: cursive;
+}
+#mid1b{
+    color: whitesmoke;
+    font-family: cursive;
+}
+#mid1c{
+    color: whitesmoke;
+    font-family: cursive;
+}
+.mid2{
+    background-color: #3d83df;
+    border: 1px solid;
+    width: 250px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 50px;
+}
+#mid2a{
+    color: whitesmoke;
+    font-family: cursive;
+}
+#mid2b{
+    color: whitesmoke;
+    font-family: cursive;
+}
+#mid2c{
+    color: whitesmoke;
+    font-family: cursive;
+}
