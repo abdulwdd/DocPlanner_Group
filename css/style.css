@@ -186,13 +186,13 @@
 .nearfooter2 > div{
     background-color:#fff;
   text-align: center;
-  padding: 70px 0;
+  /* padding: 20px 0; */
   /* font-size: 30px; */
 }
 .nearfooter2a{
     border-radius: 10px;
-    padding: 40px;
-    padding-left: 10px;
+    padding: 20px;
+    /* padding-left: 10px; */
     margin-top: 20px;
 }
 #nearfooter2aa{
@@ -203,9 +203,20 @@
 #nearfooter2ab{
     color: #747474;
     font-family: cursive;
+    font-size: 12px;
 }
 .nearfooter2b{
     border-radius: 10px;
-    padding: 40px;
-    padding-top: 100px;
+     padding: 20px;
+     padding-top: 50px; 
+}
+#nearfooter2ba{
+    color: #00b39b;
+    font-family: cursive;
+    font-size: 20px;  
+}
+#nearfooter2bb{
+    color: #747474;
+    font-family: cursive;
+    font-size: 12px;
 }
