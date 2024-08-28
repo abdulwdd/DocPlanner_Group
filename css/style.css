@@ -246,3 +246,11 @@
     font-family: cursive;
     font-size: 12px; 
 }
+.nearfoot{
+    align-items: center;
+    justify-content: center;
+}
+#nearfoot1a{
+    color: #00b39b;
+    font-family: cursive;
+}
