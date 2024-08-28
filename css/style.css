@@ -192,8 +192,6 @@
 .nearfooter2a{
     border-radius: 10px;
     padding: 20px;
-    /* padding-left: 10px; */
-    margin-top: 20px;
 }
 #nearfooter2aa{
     color: #00b39b;
@@ -233,4 +231,18 @@
     color: #747474;
     font-family: cursive;
     font-size: 12px;
+}
+.nearfooter2d{
+    border-radius: 10px;
+    padding: 20px;
+}
+#nearfooter2da{
+    color: #00b39b;
+    font-family: cursive;
+    font-size: 20px;  
+}
+#nearfooter2db{
+    color: #747474;
+    font-family: cursive;
+    font-size: 12px; 
 }
