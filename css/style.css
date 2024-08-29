@@ -461,3 +461,24 @@
     border-style: none;
     border-radius: 10px;
  }
+ .basfooter9{
+    background-color: white;
+    box-shadow: 10px;
+    border: 1px solid;
+    width: 311px;
+    border-color: #fff;
+ }
+ .basfooter9a{
+    display: flex;
+    justify-content: space-around;
+ }
+ #basfooter9aa{
+    color: #747474;
+    font-family: cursive;
+ }
+ #but8{
+    background-color: #3d83df;
+    color: #fff;
+    border-style: none;
+    border-radius: 10px;
+ }
