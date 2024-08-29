@@ -377,3 +377,24 @@
     border-style: none;
     border-radius: 10px;
  }
+ .basfooter5{
+    background-color: white;
+    box-shadow: 10px;
+    border: 1px solid;
+    width: 311px;
+    border-color: #fff;
+ }
+ .basfooter5a{
+    display: flex;
+    justify-content: space-around;
+ }
+ #basfooter5aa{
+    color: #747474;
+    font-family: cursive;
+ }
+ #but4{
+    background-color: #3d83df;
+    color: #fff;
+    border-style: none;
+    border-radius: 10px;
+ }
