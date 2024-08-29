@@ -440,3 +440,24 @@
     border-style: none;
     border-radius: 10px;
  }
+ .basfooter8{
+    background-color: white;
+    box-shadow: 10px;
+    border: 1px solid;
+    width: 311px;
+    border-color: #fff;
+ }
+ .basfooter8a{
+    display: flex;
+    justify-content: space-around;  
+ }
+ #basfooter8aa{
+    color: #747474;
+    font-family: cursive;
+ }
+ #but7{
+    background-color: #3d83df;
+    color: #fff;
+    border-style: none;
+    border-radius: 10px;
+ }
