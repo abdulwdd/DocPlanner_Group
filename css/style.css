@@ -306,6 +306,9 @@
 /* .basfooter > div{
    
 } */
+ .basfooter{
+    padding-top: 100px;
+ }
  .basfooter2{
     background-color: white;
     box-shadow: 10px;
@@ -481,4 +484,28 @@
     color: #fff;
     border-style: none;
     border-radius: 10px;
+ }
+ .basfooter10{
+    background-color: white;
+    box-shadow: 10px;
+    border: 1px solid;
+    width: 311px;
+    border-color: #fff;
+    margin-left: 450px;
+    margin-top: 20px;
+ }
+ .basfooter10a{
+    display: flex;
+    justify-content: space-around;
+ }
+ #basfooter10aa{
+    color: #747474;
+    font-family: cursive;
+ }
+ #but9{
+    background-color: #3d83df;
+    color: #fff;
+    border-style: none;
+    border-radius: 10px;
+    padding: 20px;
  }
