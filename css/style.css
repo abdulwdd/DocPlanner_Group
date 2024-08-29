@@ -419,4 +419,24 @@
     border-style: none;
     border-radius: 10px;
  }
- 
+ .basfooter7{
+    background-color: white;
+    box-shadow: 10px;
+    border: 1px solid;
+    width: 311px;
+    border-color: #fff;
+ }
+ .basfooter7a{
+    display: flex;
+    justify-content: space-around;  
+ } 
+ #basfooter7aa{
+    color: #747474;
+    font-family: cursive;
+ }
+ #but6{
+    background-color: #3d83df;
+    color: #fff;
+    border-style: none;
+    border-radius: 10px;
+ }
