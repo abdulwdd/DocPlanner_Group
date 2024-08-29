@@ -398,3 +398,25 @@
     border-style: none;
     border-radius: 10px;
  }
+ .basfooter6{
+    background-color: white;
+    box-shadow: 10px;
+    border: 1px solid;
+    width: 311px;
+    border-color: #fff;
+ }
+ .basfooter6a{
+    display: flex;
+    justify-content: space-around;  
+ }
+ #basfooter6aa{
+    color: #747474;
+    font-family: cursive;
+ }
+ #but5{
+    background-color: #3d83df;
+    color: #fff;
+    border-style: none;
+    border-radius: 10px;
+ }
+ 
