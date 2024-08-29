@@ -249,12 +249,56 @@
 .nearfoot{
     align-items: center;
     justify-content: center;
+    padding-left: 350px;
+    padding-top: 100px;
 }
 #nearfoot1a{
     color: #00b39b;
     font-family: cursive;
+    align-items: center;
+    justify-content: center;
+    padding-left: 120px;
 }
 #nearfoot1b{
     color: #747474;
     font-family: cursive;
+    align-items: center;
+    justify-content: center;
+    padding-left: 20px;
+    text-indent: 10px;
 }
+.basfooter{
+     display: grid;
+     grid-template-columns: auto auto auto;
+     gap: 20px;
+}
+/* .basfooter > div{
+   
+} */
+ .basfooter2{
+    background-color: white;
+    box-shadow: 10px;
+    border: 1px solid;
+    width: 311px;
+    /* border-style: none; */
+    border-color: #fff;
+
+ }
+ .basfooter2 :hover{
+    box-shadow: 10px;
+ }
+ .basfooter2a{
+    display: flex;
+    justify-content: space-around;
+ }
+ #basfooter2aa{
+    color: #747474;
+    font-family: cursive;
+ }
+ #but1{
+    background-color: #3d83df;
+    color: #fff;
+    border-style: none;
+    border-radius: 10px;
+    padding: -50px;
+ }
