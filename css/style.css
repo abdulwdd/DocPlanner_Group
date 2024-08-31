@@ -544,5 +544,14 @@
     justify-content: center;
     align-items: center;
     font-family: cursive;
-    padding-left: 50px;
+    padding-left: 200px;
+    font-size: 12px;
+}
+#footer2a{
+    justify-content: center;
+    align-items: center;
+    color: #747474;
+    font-family: cursive;
+    padding-left: 185px;
+    font-size: 12px;
 }
