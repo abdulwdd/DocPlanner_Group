@@ -509,3 +509,29 @@
     border-radius: 10px;
     padding: 20px;
  }
+ .basfoot{
+    align-items: center;
+    justify-content: center;
+    padding-left: 430px;
+    padding-top: 100px;
+ }
+#basfoot1a{
+    color: rgb(51, 51, 51);
+    font-family: cursive;
+    align-items: center;
+    justify-content: center;
+}
+#basfoot2{
+    align-items: center;
+    justify-content: center;
+    /* padding-left: 20px; */
+}
+#but10{
+    background-color: #3d83df;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-style: none;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
