@@ -535,3 +535,14 @@
     border-radius: 10px;
     margin-left: 50px;
 }
+.footer{
+    justify-content: center;
+    align-items: center;
+}
+#footer1a{
+    color: #747474;
+    justify-content: center;
+    align-items: center;
+    font-family: cursive;
+    padding-left: 50px;
+}
